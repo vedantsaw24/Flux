@@ -30,5 +30,16 @@ To run this application, you need the following:
 ## Installation
 1. Clone the repository:
 
+## Usage
+
+Start the application by running these scripts:
+
+python Chunk_Uploader.py
+python Chunk_Announcer.py
+python Chunk_Discovery.py
+python Chunk_Downloader.py
+
+
+
 ```bash
 git clone https://github.com/vedantsaw24/Flux.git
